@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
+# Ex. No.2 - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
 ## DATE: 
 
@@ -45,9 +45,14 @@
 
 ## Output
 
+![image](https://github.com/PreethiArunachalam/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/120115840/e59ced9a-3f6f-4c63-8c64-d49cd3db2741)
 
-### Name:
-### Register Number: 
+![image](https://github.com/PreethiArunachalam/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/120115840/26cbb93c-e89b-4656-aa07-f03977ae6181)
+
+![image](https://github.com/PreethiArunachalam/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/120115840/1d04af18-98bf-4d1b-a82a-52177118c873)
+
+### Name:KANCHARLA NARMADHA
+### Register Number: 212222110016
 
 ## RESULT:
-### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
